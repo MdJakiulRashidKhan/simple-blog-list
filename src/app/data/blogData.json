@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Mastering Next.js Fundamentals",
+    "img":"/image/1.jpg",
+    "content": "Learn how to set up a new Next.js project, create pages, and manage routing effectively.",
+    "date": "2023-08-01"
+  },
+  {
+    "id": 2,
+    "title": "Responsive Web Design Techniques",
+    "img":"/image/2.jpg",
+    "content": "Discover various strategies to make your web designs responsive and user-friendly across devices.",
+    "date": "2023-08-02"
+  },
+  {
+    "id": 3,
+    "title": "Advanced Tailwind CSS Usage",
+    "img":"/image/3.jpg",
+    "content": "Explore the advanced features of Tailwind CSS to create beautiful and complex designs using utility classes.",
+    "date": "2023-08-03"
+  },
+  {
+    "id": 4,
+    "title": "JavaScript Essentials",
+    "img":"/image/4.jpg",
+    "content": "Master the essential concepts of JavaScript programming, including variables, functions, and control structures.",
+    "date": "2023-08-04"
+  },
+  {
+    "id": 5,
+    "title": "Consuming APIs in React Applications",
+    "img":"/image/5.jpg",
+    "content": "Learn how to fetch data from APIs and display it dynamically in your React applications.",
+    "date": "2023-08-05"
+  },
+  {
+    "id": 6,
+    "title": "Building Backend Services with Node.js and Express",
+    "img":"/image/6.jpg",
+    "content": "Dive into backend development using Node.js and Express to create robust server-side applications and APIs.",
+    "date": "2023-08-06"
+  }
+]
